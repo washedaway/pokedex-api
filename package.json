@@ -1,0 +1,16 @@
+{
+  "name": "pokedex-api",
+  "version": "1.0.0",
+  "description": "Projeto de portfolio usando a API do Pokedex.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "pokedex",
+    "api"
+  ],
+  "author": "Washington Barbosa (@washedaway)",
+  "license": "ISC"
+}
